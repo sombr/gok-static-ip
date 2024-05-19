@@ -1,4 +1,4 @@
-module sombr/gok-static-ip
+module github.com/sombr/gok-static-ip
 
 go 1.22.3
 
